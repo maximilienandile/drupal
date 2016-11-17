@@ -1,0 +1,7 @@
+my-lib:
+  version: 1.x
+  css:
+    theme:
+      css/yo.css: {}
+  js:
+    js/yo.js: {}
